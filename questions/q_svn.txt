@@ -1,1 +1,3 @@
-Why use git rather than svn?
+Question: Why use git rather than svn?
+
+Answer:  git is distributed in nature allowing easier sharing.  
