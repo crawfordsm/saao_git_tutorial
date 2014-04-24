@@ -1,3 +1,4 @@
 Question: Why use git rather than svn?
 
-Answer:  git is distributed in nature allowing easier sharing.  
+Answer:  Git is distributed, supplies a full copy of the repository, is faster
+to use, and repositories are typically smaller than in svn.  
