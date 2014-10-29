@@ -1,0 +1,7 @@
+These are all the files needed for the SAAO astropy talk.   The talk can be updated/created by running:
+
+To update the notebook:
+ipython notebook astropy_saao.ipynb 
+
+To update the slides:
+ipython nbconvert astropy_saao.ipynb --to slides --post serve --template slides.tpl
